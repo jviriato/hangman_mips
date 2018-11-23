@@ -1,0 +1,10 @@
+arquivo
+fila
+crocodilo
+alimento
+estudo
+faculdade
+estrada
+programa
+liberdade
+
